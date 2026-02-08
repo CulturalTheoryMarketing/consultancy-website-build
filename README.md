@@ -46,3 +46,5 @@ Content is stored in `/content/home.json`. Non-technical editors can change copy
 Edits made in the Netlify Visual Editor are committed back to your Git repo. If the site is hosted on Vercel, pushes to the repo trigger new builds so published content stays in sync.
 
 **`util._extend` deprecation warning:** If you see `(node:…) [DEP0060] DeprecationWarning: The util._extend API is deprecated`, it comes from a dependency (e.g. RxJS or Stackbit tooling), not from this project. It is safe to ignore. The `pnpm run stackbit` script suppresses it. When using `pnpm dlx stackbit dev`, you can run `NODE_OPTIONS='--no-deprecation' pnpm dlx stackbit dev` to hide the warning.
+
+Troubleshooting...
