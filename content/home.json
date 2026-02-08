@@ -45,23 +45,7 @@
             }
         ]
     },
-    "hero": {
-        "heading": "Culture isn't a perk. It's the strategy!",
-        "subheading": "I help founders and leaders build healthy, high-performing organisations by aligning culture, brand, and behaviour. Practical strategy, not fluffy theory.",
-        "primaryCta": {
-            "label": "Book a discovery call",
-            "href": "#contact"
-        },
-        "secondaryCta": {
-            "label": "Explore services",
-            "href": "#services"
-        },
-        "trustBullets": [
-            "Senior-led",
-            "Practical playbooks",
-            "Clear measurement"
-        ]
-    },
+    "hero": {},
     "socialProof": {
         "metrics": [
             {
