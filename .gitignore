@@ -31,3 +31,7 @@ next-env.d.ts
 
 # cursor
 .cursor
+
+.stackbit
+
+.pnpm-store

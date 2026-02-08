@@ -1,0 +1,521 @@
+{
+    "type": "Home",
+    "site": {
+        "name": "Cultural Theory Marketing ",
+        "tagline": "Senior-led culture consultancy for founders and leaders.",
+        "meta": {
+            "title": "The Culture Consultancy Co.",
+            "description": "Senior-led culture consultancy for founders and leaders."
+        }
+    },
+    "header": {
+        "logoText": "CT Marketing ",
+        "primaryCta": {
+            "label": "Book a call",
+            "href": "#contact"
+        },
+        "navLinks": [
+            {
+                "href": "#services",
+                "label": "Services"
+            },
+            {
+                "href": "#approach",
+                "label": "Approach"
+            },
+            {
+                "href": "#results",
+                "label": "Results"
+            },
+            {
+                "href": "#testimonials",
+                "label": "Testimonials"
+            },
+            {
+                "href": "#pricing",
+                "label": "Pricing"
+            },
+            {
+                "href": "#faq",
+                "label": "FAQ"
+            },
+            {
+                "href": "#contact",
+                "label": "Contact"
+            }
+        ]
+    },
+    "hero": {
+        "heading": "Culture isn't a perk. It's the strategy!",
+        "subheading": "I help founders and leaders build healthy, high-performing organisations by aligning culture, brand, and behaviour. Practical strategy, not fluffy theory.",
+        "primaryCta": {
+            "label": "Book a discovery call",
+            "href": "#contact"
+        },
+        "secondaryCta": {
+            "label": "Explore services",
+            "href": "#services"
+        },
+        "trustBullets": [
+            "Senior-led",
+            "Practical playbooks",
+            "Clear measurement"
+        ]
+    },
+    "socialProof": {
+        "metrics": [
+            {
+                "value": "10+",
+                "label": "Years experience"
+            },
+            {
+                "value": "2–6",
+                "label": "Week engagements"
+            },
+            {
+                "value": "Remote + UK",
+                "label": "Flexible delivery"
+            }
+        ],
+        "selectedClientsLine": ""
+    },
+    "servicesSection": {
+        "id": "services",
+        "title": "Areas of Expertise ",
+        "subtitle": "Practical services at the intersection of culture, brand, and communications.",
+        "items": [
+            {
+                "iconId": "",
+                "title": "Culture Strategy & Diagnosis",
+                "description": "Uncover what's working, what's not, and where your culture needs to evolve to support your goals."
+            },
+            {
+                "iconId": "heart",
+                "title": "Values, Behaviours & Rituals",
+                "description": "Define meaningful values and translate them into everyday behaviours and team rituals that stick."
+            },
+            {
+                "iconId": "message-square",
+                "title": "Leadership Comms & Narrative",
+                "description": "Craft authentic leadership communications that inspire trust and align your organisation."
+            },
+            {
+                "iconId": "users",
+                "title": "Employee Experience & Onboarding",
+                "description": "Design memorable onboarding and employee experiences that reinforce your culture from day one."
+            },
+            {
+                "iconId": "palette",
+                "title": "Brand Alignment Workshops",
+                "description": "Ensure your internal culture and external brand tell the same story, consistently."
+            },
+            {
+                "iconId": "bar-chart-3",
+                "title": "Measurement & Culture Dashboards",
+                "description": "Build practical measurement frameworks to track culture health and demonstrate progress."
+            }
+        ]
+    },
+    "approachSection": {
+        "id": "approach",
+        "title": "My approach",
+        "subtitle": "A clear, collaborative process that respects your context and delivers practical outcomes.",
+        "steps": [
+            {
+                "step": "01",
+                "title": "Listen",
+                "description": "Deep discovery through interviews, surveys, and observation to understand your current state.",
+                "outcomes": [
+                    "Stakeholder interviews",
+                    "Culture pulse survey",
+                    "Document review",
+                    "Observation notes"
+                ]
+            },
+            {
+                "step": "02",
+                "title": "Diagnose",
+                "description": "Synthesise findings into clear themes, tensions, and opportunities for meaningful change.",
+                "outcomes": [
+                    "Culture diagnosis report",
+                    "Key themes & tensions",
+                    "Opportunity mapping",
+                    "Prioritisation framework"
+                ]
+            },
+            {
+                "step": "03",
+                "title": "Design",
+                "description": "Co-create practical solutions that fit your context, people, and business realities.",
+                "outcomes": [
+                    "Culture principles",
+                    "Behaviour frameworks",
+                    "Comms templates",
+                    "Ritual design"
+                ]
+            },
+            {
+                "step": "04",
+                "title": "Embed",
+                "description": "Support implementation with coaching, toolkits, and measurement to ensure lasting change.",
+                "outcomes": [
+                    "Rollout plan",
+                    "Leader coaching",
+                    "Implementation toolkit",
+                    "Progress tracking"
+                ]
+            }
+        ]
+    },
+    "resultsSection": {
+        "id": "results",
+        "title": "Real results",
+        "subtitle": "Examples of how culture work translates into meaningful change.",
+        "caseStudies": [
+            {
+                "type": "Seed-stage startup",
+                "challenge": "Founders struggled to articulate their culture as the team grew from 5 to 25 people.",
+                "solutionHeading": "What I did",
+                "solution": "Facilitated values workshops, created a culture playbook, and designed onboarding rituals.",
+                "resultHeading": "Result",
+                "result": "90% of new hires reported feeling \"deeply aligned\" with company values within 30 days.",
+                "details": "Working closely with the founding team over 4 weeks, we ran discovery interviews with all employees, facilitated a collaborative values workshop, and translated insights into a practical culture playbook. The playbook included daily rituals, meeting norms, and a structured onboarding programme that new hires now consistently praise.",
+                "readMoreLabel": "Read more",
+                "closeLabel": "Close"
+            },
+            {
+                "type": "SME (80 employees)",
+                "challenge": "Leadership team communication felt inconsistent and was creating confusion across departments.",
+                "solutionHeading": "What I did",
+                "solution": "Developed a leadership narrative framework and trained senior leaders on consistent messaging.",
+                "resultHeading": "Result",
+                "result": "Employee understanding of company direction improved by 45% in quarterly surveys.",
+                "details": "The engagement began with a communication audit, identifying gaps between leadership intent and employee perception. We then co-created a narrative framework with the leadership team, including key messages, communication rhythms, and feedback loops. Monthly coaching sessions ensured the framework became embedded in how leaders showed up.",
+                "readMoreLabel": "Read more",
+                "closeLabel": "Close"
+            },
+            {
+                "type": "Scale-up (200+ employees)",
+                "challenge": "Rapid growth had diluted the original culture; brand and internal experience felt misaligned.",
+                "solutionHeading": "What I did",
+                "solution": "Ran brand-culture alignment workshops and redesigned the employee experience journey.",
+                "resultHeading": "Result",
+                "result": "Glassdoor rating improved from 3.2 to 4.1 within 6 months.",
+                "details": "This comprehensive engagement involved cross-functional workshops bringing together marketing, HR, and operations leaders. We mapped the employee journey against brand promises, identified friction points, and co-designed improvements. The result was a unified experience where external brand and internal culture reinforced each other at every touchpoint.",
+                "readMoreLabel": "Read more",
+                "closeLabel": "Close"
+            }
+        ]
+    },
+    "testimonialsSection": {
+        "id": "testimonials",
+        "title": "What clients say",
+        "subtitle": "Honest feedback from leaders who've worked with me.",
+        "items": [
+            {
+                "quote": "Working with The Culture Consultancy was transformative. The diagnosis surfaced things we'd been avoiding, but the recommendations were practical and achievable.",
+                "name": "Sarah Chen",
+                "role": "CEO",
+                "company": "TechFlow"
+            },
+            {
+                "quote": "What I appreciated most was the lack of jargon. Clear thinking, clear actions, clear results. Exactly what we needed.",
+                "name": "Marcus Johnson",
+                "role": "Head of People",
+                "company": "Brightside Health"
+            },
+            {
+                "quote": "The values work has genuinely changed how our teams operate. It's not just words on a wall anymore—people actually reference them in conversations.",
+                "name": "Emma Williams",
+                "role": "Founder",
+                "company": "GreenLeaf Studios"
+            },
+            {
+                "quote": "Finally, a consultant who listens more than they talk. The insights were spot-on because they were built on genuine understanding of our context.",
+                "name": "David Park",
+                "role": "COO",
+                "company": "Nexus Partners"
+            }
+        ]
+    },
+    "pricingSection": {
+        "id": "pricing",
+        "title": "Investment",
+        "subtitle": "Clear pricing, no surprises. Choose the engagement that fits your needs.",
+        "tiers": [
+            {
+                "name": "Starter Session",
+                "price": "£750",
+                "priceSuffix": " starting from",
+                "description": "A focused session to tackle a specific culture challenge or question.",
+                "features": [
+                    "2-hour deep-dive session",
+                    "Pre-session briefing call",
+                    "Summary notes & recommendations",
+                    "30-day email follow-up"
+                ],
+                "ctaLabel": "Enquire",
+                "ctaHref": "#contact",
+                "popular": false
+            },
+            {
+                "name": "Sprint",
+                "price": "£3,500",
+                "priceSuffix": " starting from",
+                "description": "A 2-week intensive to diagnose and design solutions for a specific area.",
+                "features": [
+                    "Discovery interviews (up to 8)",
+                    "Culture diagnosis report",
+                    "Co-design workshop",
+                    "Practical recommendations",
+                    "Implementation guidance"
+                ],
+                "ctaLabel": "Enquire",
+                "ctaHref": "#contact",
+                "popular": true
+            },
+            {
+                "name": "Partner",
+                "price": "£7,500",
+                "priceSuffix": " starting from",
+                "description": "A 4-6 week engagement for comprehensive culture transformation.",
+                "features": [
+                    "Full discovery phase",
+                    "Comprehensive diagnosis",
+                    "Multiple design workshops",
+                    "Leadership coaching (3 sessions)",
+                    "Implementation toolkit",
+                    "Progress review checkpoint"
+                ],
+                "ctaLabel": "Enquire",
+                "ctaHref": "#contact",
+                "popular": false
+            }
+        ],
+        "footnote": "Final pricing depends on scope and timeline. All engagements begin with a free discovery call."
+    },
+    "faqSection": {
+        "id": "faq",
+        "title": "Common questions",
+        "subtitle": "Answers to things clients often ask before we start working together.",
+        "items": [
+            {
+                "question": "What are typical engagement timelines?",
+                "answer": "Most engagements range from 2-6 weeks, depending on scope. Starter Sessions are single events, Sprints typically run for 2 weeks, and Partner engagements usually span 4-6 weeks. We'll agree on timelines before we start based on your specific needs."
+            },
+            {
+                "question": "How do engagements work with a solo consultant?",
+                "answer": "You get direct access to senior expertise without the overhead of a large consultancy. I handle all discovery, design, and delivery personally—meaning consistent quality and no junior handoffs. For larger projects, I occasionally bring in trusted specialists, always with your agreement."
+            },
+            {
+                "question": "Do you work remotely or on-site in the UK?",
+                "answer": "Both. I'm based in the UK and happy to work on-site for workshops and key meetings. Discovery interviews and ongoing support often work well remotely. We'll design the right mix for your context and preferences."
+            },
+            {
+                "question": "What industries do you specialise in?",
+                "answer": "I've worked across tech, healthcare, professional services, and creative industries. Culture challenges share common patterns regardless of sector—what matters most is your willingness to engage honestly with the process."
+            },
+            {
+                "question": "What do you need from us to start?",
+                "answer": "A discovery call to understand your context and goals, access to key stakeholders for interviews, and a primary point of contact. I'll provide a clear brief of what's needed once we agree on scope."
+            },
+            {
+                "question": "How do you measure culture impact?",
+                "answer": "Measurement is tailored to your goals. This might include pulse surveys, engagement metrics, qualitative feedback, or business outcomes like retention and productivity. I'll help you define meaningful measures that make sense for your context."
+            },
+            {
+                "question": "Is there a minimum contract?",
+                "answer": "No minimum contract. Starter Sessions are standalone. Larger engagements are scoped and priced individually based on your needs. If we're not the right fit, I'll tell you—there's no benefit in forcing an engagement."
+            },
+            {
+                "question": "Can you support comms and brand alignment too?",
+                "answer": "Yes. Culture and brand are deeply connected. I help organisations ensure their internal culture and external brand tell the same story. This often involves working alongside your marketing or comms teams."
+            }
+        ]
+    },
+    "contactSection": {
+        "id": "contact",
+        "title": "Let's connect",
+        "subtitle": "Ready to explore how culture work could help your organisation? I'd love to hear from you. Fill out the form or get in touch directly.",
+        "details": {
+            "email": "hello@thecultureconsultancy.co",
+            "phone": "+44 (0) 7XXX XXXXXX",
+            "location": "United Kingdom",
+            "hours": "Monday – Friday, 9am – 5pm"
+        },
+        "form": {
+            "successTitle": "Thank you!",
+            "successBody": "I'll be in touch within 24 hours to arrange a discovery call.",
+            "toastSuccess": "Thank you for your enquiry! I'll be in touch within 24 hours.",
+            "submitIdleLabel": "Send enquiry",
+            "submitLoadingLabel": "Sending...",
+            "fields": {
+                "fullName": {
+                    "label": "Full name *",
+                    "placeholder": "Your name"
+                },
+                "organisation": {
+                    "label": "Organisation *",
+                    "placeholder": "Company name"
+                },
+                "email": {
+                    "label": "Email *",
+                    "placeholder": "you@company.com"
+                },
+                "phone": {
+                    "label": "Phone",
+                    "placeholder": "+44"
+                },
+                "engagementType": {
+                    "label": "Engagement type *",
+                    "placeholder": "Select...",
+                    "options": [
+                        {
+                            "value": "starter",
+                            "label": "Starter Session"
+                        },
+                        {
+                            "value": "sprint",
+                            "label": "Sprint"
+                        },
+                        {
+                            "value": "partner",
+                            "label": "Partner"
+                        },
+                        {
+                            "value": "not-sure",
+                            "label": "Not sure yet"
+                        }
+                    ]
+                },
+                "budgetRange": {
+                    "label": "Budget range *",
+                    "placeholder": "Select...",
+                    "options": [
+                        {
+                            "value": "under-1k",
+                            "label": "< £1k"
+                        },
+                        {
+                            "value": "1k-3k",
+                            "label": "£1k – £3k"
+                        },
+                        {
+                            "value": "3k-7k",
+                            "label": "£3k – £7k"
+                        },
+                        {
+                            "value": "7k-plus",
+                            "label": "£7k+"
+                        },
+                        {
+                            "value": "prefer-not-to-say",
+                            "label": "Prefer not to say"
+                        }
+                    ]
+                },
+                "areasOfInterest": {
+                    "label": "Areas of interest",
+                    "options": [
+                        {
+                            "id": "culture-strategy",
+                            "label": "Culture strategy"
+                        },
+                        {
+                            "id": "values-behaviours",
+                            "label": "Values & behaviours"
+                        },
+                        {
+                            "id": "leadership-comms",
+                            "label": "Leadership comms"
+                        },
+                        {
+                            "id": "onboarding",
+                            "label": "Onboarding"
+                        },
+                        {
+                            "id": "brand-alignment",
+                            "label": "Brand alignment"
+                        },
+                        {
+                            "id": "measurement",
+                            "label": "Measurement"
+                        }
+                    ]
+                },
+                "message": {
+                    "label": "Message *",
+                    "placeholder": "Tell me a bit about your situation and what you're hoping to achieve..."
+                },
+                "consent": {
+                    "label": "I agree to be contacted about my enquiry *"
+                }
+            }
+        }
+    },
+    "footer": {
+        "brandName": "Cultural Theory Marketing",
+        "brandBlurb": "Senior-led culture consultancy for founders and leaders.",
+        "columns": [
+            {
+                "title": "Services",
+                "links": [
+                    {
+                        "label": "Culture Strategy",
+                        "href": "#services"
+                    },
+                    {
+                        "label": "Values & Behaviours",
+                        "href": "#services"
+                    },
+                    {
+                        "label": "Leadership Comms",
+                        "href": "#services"
+                    }
+                ]
+            },
+            {
+                "title": "About",
+                "links": [
+                    {
+                        "label": "Approach",
+                        "href": "#approach"
+                    },
+                    {
+                        "label": "Case Studies",
+                        "href": "#results"
+                    },
+                    {
+                        "label": "Testimonials",
+                        "href": "#testimonials"
+                    }
+                ]
+            },
+            {
+                "title": "Legal",
+                "links": [
+                    {
+                        "label": "Privacy Policy",
+                        "href": "#"
+                    },
+                    {
+                        "label": "Terms of Service",
+                        "href": "#"
+                    }
+                ]
+            }
+        ],
+        "socialLinks": [
+            {
+                "label": "LinkedIn",
+                "href": "#",
+                "iconId": "linkedin"
+            },
+            {
+                "label": "Twitter",
+                "href": "#",
+                "iconId": "twitter"
+            }
+        ]
+    }
+}

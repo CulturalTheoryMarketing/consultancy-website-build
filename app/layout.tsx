@@ -5,12 +5,17 @@ import { Analytics } from '@vercel/analytics/next'
 import { Toaster } from 'sonner'
 import './globals.css'
 
+import homeJson from "@/content/home.json"
+import { HomeContentSchema } from "@/content/home.schema"
+
+const content = HomeContentSchema.parse(homeJson)
+
 const dmSans = DM_Sans({ subsets: ["latin"], variable: "--font-dm-sans" });
 const dmSerif = DM_Serif_Display({ subsets: ["latin"], weight: "400", variable: "--font-dm-serif" });
 
 export const metadata: Metadata = {
-  title: 'The Culture Consultancy Co. | Culture Strategy & Brand Alignment',
-  description: 'Senior-led culture consultancy helping founders and leaders build healthy, high-performing organisations through practical strategy, values alignment, and leadership communications.',
+  title: content.site.meta.title,
+  description: content.site.meta.description,
   generator: 'v0.app',
   icons: {
     icon: [
@@ -38,6 +43,13 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="scroll-smooth">
+    <head>
+        <script
+          async
+          crossOrigin="anonymous"
+          src="https://tweakcn.com/live-preview.min.js"
+        />
+      </head>
       <body className={`${dmSans.variable} ${dmSerif.variable} font-sans antialiased`}>
         {children}
         <Toaster position="top-center" />
