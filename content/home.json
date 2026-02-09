@@ -45,7 +45,23 @@
             }
         ]
     },
-    "hero": {},
+    "hero": {
+        "heading": "Senior-led culture consultancy for founders and leaders.",
+        "subheading": "Practical support to diagnose, design, and embed culture that drives performance and belonging.",
+        "primaryCta": {
+            "label": "Book a call",
+            "href": "#contact"
+        },
+        "secondaryCta": {
+            "label": "View approach",
+            "href": "#approach"
+        },
+        "trustBullets": [
+            "10+ years experience",
+            "2–6 week engagements",
+            "Remote + UK delivery"
+        ]
+    },
     "socialProof": {
         "metrics": [
             {
